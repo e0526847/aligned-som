@@ -11,7 +11,7 @@
 # In[1]:
 
 
-import tensorflow as tf # notebook basedtensorflow v. 1.4.0.  
+import tensorflow as tf # notebook based on tensorflow v. 1.4.0.  
 import numpy as np
 from random import randint
 
